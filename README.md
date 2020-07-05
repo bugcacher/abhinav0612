@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with getting an Android Development Intership.
 - 💬 Ask me about anything you want.
-- 📫 How to reach me: (Gmail)[abhinav.s0612@gmai.com] | (LinkedIn)[https://www.linkedin.com/in/abhinavsingh0612]
+- 📫 How to reach me: [Gmail](abhinav.s0612@gmai.com) | [LinkedIn](https://www.linkedin.com/in/abhinavsingh0612)
 - 😄 Pronouns: He
 - ⚡ Fun fact: Die hard DC comics fan.
