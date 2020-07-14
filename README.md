@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: Die hard DC comics fan.
 
-![Public Github Stats](https://github-readme-stats.vercel.app/api?username=sawankumar&show_icons=true&hide_border=true)
+![Public Github Stats](https://github-readme-stats.vercel.app/api?username=abhinav612&show_icons=true&hide_border=true)
