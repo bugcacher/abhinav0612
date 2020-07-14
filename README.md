@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Gmail](mailto:abhinav.s0612@gmai.com) | [LinkedIn](https://www.linkedin.com/in/abhinavsingh0612)
 - 😄 Pronouns: He
 - ⚡ Fun fact: Die hard DC comics fan.
+
+![Public Github Stats](https://github-readme-stats.vercel.app/api?username=sawankumar&show_icons=true&hide_border=true)
