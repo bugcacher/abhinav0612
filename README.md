@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a> 
 -->
-![](https://visitor-badge.glitch.me/badge?page_id=abhinav0612.abhinav0612)  
+| ![](https://visitor-badge.glitch.me/badge?page_id=abhinav0612.abhinav0612)  
 
 <br/>
 
