@@ -6,6 +6,20 @@
 Here are some ideas to get you started:
 -->
 
+<br/>
+<!--
+<a href="https://twitter.com/devtronku">
+  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/n<!--pm/simple-icons@v3/icons/twitter.svg" />
+</a>  <a href="">
+  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>   <a href="">
+  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a> 
+-->
+![](https://visitor-badge.glitch.me/badge?page_id=abhinav0612.abhinav0612)  
+
+<br/>
+
 - 🔭 I’m currently working on Personal Project.
 - 🌱 I’m currently learning Blockchain.
 - 👯 I’m looking to collaborate on ...
