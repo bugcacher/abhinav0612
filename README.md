@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 -->
 <br />
 
+  <img align="right" alt="GIF" src="https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400" height="300" />
 <a href="https://www.linkedin.com/in/abhinavsingh0612">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -28,7 +29,6 @@ Here are some ideas to get you started:
 
 <br />
 
-  <img align="right" alt="GIF" src="https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400" height="200" />
   <br />
   
 
