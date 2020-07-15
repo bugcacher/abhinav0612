@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 <!--
 ![](https://visitor-badge.glitch.me/badge?page_id=abhinav0612.abhinav0612)  
 -->
-| ![Visitors](https://visitor-badge.glitch.me/badge?page_id=abhinav0612.abhinav0612) 
 <br />
 <a href="https://www.linkedin.com/in/abhinavsingh0612">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -22,6 +21,7 @@ Here are some ideas to get you started:
 <a href="https://www.reddit.com/user/fire_icicle">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
+| ![Visitors](https://visitor-badge.glitch.me/badge?page_id=abhinav0612) 
 
 <br />
 
