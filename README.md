@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 
 <br />
 
-  <img align="right" alt="GIF" src="https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400" height="300" />
-  <br />
+  <img align="right" alt="GIF" src="https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400" height="200" />
   <br />
   
 
