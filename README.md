@@ -9,11 +9,15 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=abhinav0612.abhinav0612)  
 -->
 <br />
+
 <a href="https://www.linkedin.com/in/abhinavsingh0612">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://medium.com/@abhinav.s0612">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" />
+</a>
+<a href="mailto:abhinav.s0612@gmai.com">
+  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://twitter.com/abhinav_singhhh">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -21,17 +25,16 @@ Here are some ideas to get you started:
 <a href="https://www.reddit.com/user/fire_icicle">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-| ![Visitors](https://visitor-badge.glitch.me/badge?page_id=abhinav0612) 
 
 <br />
 
+  <img align="right" alt="GIF" src="https://images.squarespace-cdn.com/content/540dd6d2e4b0c01ba401502b/1535022185838-TY0IMSIL64KUF86ZTFYV/dadsds.gif?content-type=image%2Fgif" />
+
 - 🔭 I’m currently working on Personal Project.
 - 🌱 I’m currently learning Blockchain.
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with getting an Android Development Intership.
 - 💬 Ask me about anything you want.
-- 📫 How to reach me: [Gmail](mailto:abhinav.s0612@gmai.com) | [LinkedIn](https://www.linkedin.com/in/abhinavsingh0612)
-- 😄 Pronouns: He
+- 📫 How to reach me: abhinav.s0612@gmai.com
 - ⚡ Fun fact: Die hard DC comics fan.
 
 ![Public Github Stats](https://github-readme-stats.vercel.app/api?username=abhinav0612&show_icons=true&hide_border=true)
