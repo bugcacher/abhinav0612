@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <br />
 
-  <img align="right" alt="GIF" src="https://images.squarespace-cdn.com/content/540dd6d2e4b0c01ba401502b/1535022185838-TY0IMSIL64KUF86ZTFYV/dadsds.gif?content-type=image%2Fgif" />
+  <img align="right" alt="GIF" src="https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" />
 
 - 🔭 I’m currently working on Personal Project.
 - 🌱 I’m currently learning Blockchain.
