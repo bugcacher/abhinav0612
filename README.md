@@ -29,12 +29,17 @@ Here are some ideas to get you started:
 <br />
 
   <img align="right" alt="GIF" src="https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" />
+  <br />
+  <br />
+  <br />
+  <br />
+  
 
-- 🔭 I’m currently working on Personal Project.
+- 🔭 I’m currently working on a Personal Project.
 - 🌱 I’m currently learning Blockchain.
-- 🤔 I’m looking for help with getting an Android Development Intership.
+- 🤔 I’m looking for help with getting an Android Development Internship.
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: abhinav.s0612@gmai.com
-- ⚡ Fun fact: Die hard DC comics fan.
+- ⚡ Fun fact: Die-hard DC comics fan.
 
 ![Public Github Stats](https://github-readme-stats.vercel.app/api?username=abhinav0612&show_icons=true&hide_border=true)
