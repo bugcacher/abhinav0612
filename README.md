@@ -25,9 +25,20 @@ Here are some ideas to get you started:
 <a href="https://www.reddit.com/user/fire_icicle">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
+| <table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://iamskok-readme.glitch.me/count.svg" alt="Visitor counter" /></td>
+  </tr>
+</table>
 
 <br />
-![](https://profile-counter.glitch.me/{abhinav0612}/count.svg)  
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://iamskok-readme.glitch.me/count.svg" alt="Visitor counter" /></td>
+  </tr>
+</table>
 
 - 🔭 I’m currently working on a Personal Project.
 - 🌱 I’m currently learning Blockchain.
