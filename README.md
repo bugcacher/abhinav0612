@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 <!--
 ![](https://visitor-badge.glitch.me/badge?page_id=abhinav0612.abhinav0612)  
 -->
-<br />
 
   <img align="right" alt="GIF" src="https://media0.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="400" height="300" />
 <a href="https://www.linkedin.com/in/abhinavsingh0612">
@@ -28,7 +27,7 @@ Here are some ideas to get you started:
 </a>
 
 <br />
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)  
+![Visitor Count](https : //profile-counter.glitch.me/{abhinav0612}/count.svg)  
 
 - 🔭 I’m currently working on a Personal Project.
 - 🌱 I’m currently learning Blockchain.
