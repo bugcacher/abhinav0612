@@ -28,17 +28,11 @@ Here are some ideas to get you started:
 | <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://iamskok-readme.glitch.me/count.svg" alt="Visitor counter" /></td>
+    <td><img src="https://abhinav0612-readme.glitch.me/count.svg" alt="Visitor counter" /></td>
   </tr>
 </table>
 
 <br />
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://iamskok-readme.glitch.me/count.svg" alt="Visitor counter" /></td>
-  </tr>
-</table>
 
 - 🔭 I’m currently working on a Personal Project.
 - 🌱 I’m currently learning Blockchain.
