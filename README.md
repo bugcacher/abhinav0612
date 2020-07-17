@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 </a>
 
 <br />
-
-  <br />
-  
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)  
 
 - 🔭 I’m currently working on a Personal Project.
 - 🌱 I’m currently learning Blockchain.
