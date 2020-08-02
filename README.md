@@ -32,6 +32,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: abhinav.s0612@gmail.com
 - ⚡ Fun fact: Die-hard DC comics fan.
-![Public Github Stats](https://github-readme-stats.vercel.app/api?username=abhinav0612&show_icons=true&hide_border=true)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav0612&layout=compact)-->
+![Public Github Stats](https://github-readme-stats.vercel.app/api?username=abhinav0612&show_icons=true&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav0612&layout=compact)
 
