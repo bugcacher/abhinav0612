@@ -24,13 +24,12 @@ Here are some ideas to get you started:
 </a>
 <img src="https://profile-counter.glitch.me/abhinav0612/count.svg" alt="Visitor counter" />
 
-<br />
-
 - 🔭 I’m currently working on a Personal Project.
 - 🌱 I’m currently learning Blockchain.
 - 🤔 I’m looking for help with getting an Android Development Internship.
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: abhinav.s0612@gmail.com
 - ⚡ Fun fact: Die-hard DC comics fan.
-![Public Github Stats](https://github-readme-stats.vercel.app/api?username=abhinav0612&show_icons=true&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav0612&layout=compact)
+![Public Github Stats](https://github-readme-stats.vercel.app/api?username=abhinav0612&show_icons=true&hide_border=true)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav0612&layout=compact)-->
 
