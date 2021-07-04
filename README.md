@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://profile-counter.glitch.me/abhinav0612/count.svg" alt="Visitor counter" />
 
 - 🔭 I’m currently working on a Personal Project.
-- 🤔 I’m looking for help with getting an Android Development Internship.
+- 🤔 I’m looking for something new to explore.
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: abhinav.s0612@gmail.com
 - ⚡ Fun fact: Die-hard DC comics fan.
