@@ -24,11 +24,10 @@ Here are some ideas to get you started:
 </a>
 <img src="https://profile-counter.glitch.me/abhinav0612/count.svg" alt="Visitor counter" />
 
-- 🔭 I’m currently working on a Personal Project.
-- 🤔 I’m looking for something new to explore.
-- 💬 Ask me about anything you want.
-- 📫 How to reach me: abhinav.s0612@gmail.com
-- ⚡ Fun fact: Die-hard DC comics fan.
-![Public Github Stats](https://github-readme-stats.vercel.app/api?username=abhinav0612&show_icons=true&hide_border=true)
+- 🔭 I’m currently learning Golang, and I'm excited about diving deep into its concurrency and performance features.
+- 🌱 I enjoy exploring new technologies and frameworks, always on the lookout for exciting projects and challenges.
+- 💬 Ask me about anything related to programming, tech, or even DC comics! I love discussing ideas and helping others learn.
+- 📫 You can reach me at [abhinav.s0612@gmail.com](mailto:abhinav.s0612@gmail.com). Feel free to drop me an email; I'd love to connect.
+<!--![Public Github Stats](https://github-readme-stats.vercel.app/api?username=abhinav0612&show_icons=true&hide_border=true)-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav0612&layout=compact)-->
 
